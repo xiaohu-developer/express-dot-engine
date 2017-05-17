@@ -1,9 +1,9 @@
 {
-  "name": "express-dot-engine",
+  "name": "express-dot-engine-xiaohu",
   "version": "1.0.7",
   "description": "Node.js engine using the ultra fast doT templating with support for layouts, partials and friendly for front-end web libraries (Angular, Ember, Backbone...)",
   "author": "Dan Le Van",
-  "homepage": "https://github.com/danlevan/express-dot-engine",
+  "homepage": "https://github.com/xiaohu-developer/express-dot-engine.git",
   "keywords": [
     "express",
     "doT",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/danlevan/express-dot-engine.git"
+    "url": "git://github.com/xiaohu-developer/express-dot-engine.git"
   },
   "bugs": "",
   "contributors": "",
